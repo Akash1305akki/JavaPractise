@@ -1,5 +1,3 @@
-package CognitivePrep;
-
 import java.util.*;
 
 public class FibonacciSeries {
