@@ -1,5 +1,3 @@
-package CognitivePrep;
-
 import java.util.Arrays;
 
 public class RepeatedElement {
