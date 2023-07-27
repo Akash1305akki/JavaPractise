@@ -1,5 +1,3 @@
-package CognitivePrep;
-
 public class Frequency {
     public static void main(String[]args){
         int []a={1,2,4,2,7,4,3,1,8,-1,-2,-1,-1,0,-2,0,-1};
