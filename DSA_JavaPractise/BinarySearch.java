@@ -23,13 +23,13 @@ public class BinarySearch {
 
         Arrays.sort(arr);
 
-        int index = binarlySearch(arr,target);
+        int index = binarySearchAlgo(arr,target);
 
         if (index != -1) System.out.println("Element is found @ Index:"+index);
         else System.out.println("Element \"Not Found\"");
     }
 
-    public static int binarlySearch(int[] arr, int target){
+    public static int binarySearchAlgo(int[] arr, int target){
         int left = 0;
         int right = arr.length - 1;
 
